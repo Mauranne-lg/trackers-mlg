@@ -116,14 +116,7 @@ The built files will be in the `dist` directory.
 
 ## Deployment
 
-You can deploy this application to any static hosting service that supports single-page applications:
-
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-
-Make sure to configure your environment variables on your hosting provider.
+Trackers is deployed on [Netlify](https://www.netlify.com/)
 
 ## License
 
