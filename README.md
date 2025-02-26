@@ -4,7 +4,8 @@
 
 A Vue 3 application for creating and managing personal trackers. Built with Vue 3, TypeScript, Vite, and Supabase.
 
-![Tracker App Screenshot](https://placehold.co/600x400/amber/white?text=Tracker+App)
+![Tracker App Screenshot](https://github.com/user-attachments/assets/0a63f285-8d68-4967-830b-46c4e26d4c9f)
+
 
 ## Features
 
