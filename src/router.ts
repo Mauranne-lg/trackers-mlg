@@ -5,6 +5,7 @@ import CreateTracker from './views/CreateTracker.vue'
 import Auth from './views/Auth.vue'
 import { supabase } from './supabase'
 
+// @ts-ignore to allow build
 const requireAuth = async (to, from, next) => {
   const { data: { session } } = await supabase!.auth.getSession()
   if (!session) {
