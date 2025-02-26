@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0026d86e-8d94-44dd-9c4c-a91ea9950d76/deploy-status?branch=main)](https://app.netlify.com/sites/trackers-mlg/deploys)
+
 # Tracker App
 
 A Vue 3 application for creating and managing personal trackers. Built with Vue 3, TypeScript, Vite, and Supabase.
